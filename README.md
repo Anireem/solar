@@ -21,6 +21,6 @@
 # Задача 3
 Задача реализована с помощью Spring и PostgreSql.
 Чтобы запустить программу:
-1. Должен быть PostgreSql;
+1. Должен быть PostgreSql, порт 5432;
 2. Должна быть создана база данных "todo";
 3. Ссылка на swagger документацию: http://localhost:8080/swagger-ui/index.html;
